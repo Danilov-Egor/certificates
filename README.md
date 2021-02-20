@@ -1,5 +1,6 @@
 # certificates
 <img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~27RQG9M3KLE2/CERTIFICATE_LANDING_PAGE~27RQG9M3KLE2.jpeg>
+Specialization consists of four courses
 <table width="300">
   <tr>
     <td> <img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TQUXVS8S7ALP/CERTIFICATE_LANDING_PAGE~TQUXVS8S7ALP.jpeg width="600">  </td>
