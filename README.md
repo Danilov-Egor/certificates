@@ -15,4 +15,6 @@ Specialization consists of four courses
 <img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EGVZDRZR8RMU/CERTIFICATE_LANDING_PAGE~EGVZDRZR8RMU.jpeg>
 <img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JVZUDG4SRZSV/CERTIFICATE_LANDING_PAGE~JVZUDG4SRZSV.jpeg>
 <img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CDRXRD4NF7DG/CERTIFICATE_LANDING_PAGE~CDRXRD4NF7DG.jpeg>
-
+<img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9NR98QKM8FTE/CERTIFICATE_LANDING_PAGE~9NR98QKM8FTE.jpeg>
+<img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9NR98QKM8FTE/CERTIFICATE_LANDING_PAGE~9NR98QKM8FTE.jpeg>
+<img src=https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~64SUJUERFD4T/CERTIFICATE_LANDING_PAGE~64SUJUERFD4T.jpeg>
